@@ -64,4 +64,4 @@ npx expo start
 
 ## Author
 
-Made by **N2O**
+Fueled by **N2O** 💨
